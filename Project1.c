@@ -1,3 +1,5 @@
+// This is a simple number guess game between you and computer--
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
